@@ -1,0 +1,23 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.container img {
+    width: 100px;
+    height: 100px;
+}
+
+.container button {
+    outline: none;
+    border-radius: 20px;
+    background-color: rgb(247, 180, 180);
+    box-shadow: 12px;
+    border: none;
+    padding: 15px 15px;
+    width: 120px;
+}
